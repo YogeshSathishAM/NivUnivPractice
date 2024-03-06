@@ -1,5 +1,5 @@
 console.log("array methods")
-
+console.log("testing for push change")
 let arr = [2,8,5,1,6.9,83,44]
 let aee1 = ["teye","hdu","uqi"]
 console.log(arr.concat(arr,aee1)) // concat 2 arrays
