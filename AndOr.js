@@ -1,5 +1,5 @@
 console.log("AndOr")
-
+console.log("chnages made for testing push in main branch") // check this in main
 let num = 20;
 
 if(num%2===0 && num%4===0)
