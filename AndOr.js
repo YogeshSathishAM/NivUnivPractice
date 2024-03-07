@@ -1,6 +1,6 @@
 console.log("AndOr")
 // testing for push changes
-
+// check for the pull in vs code after pull command 
 let num = 20;
 
 if(num%2===0 && num%4===0)
