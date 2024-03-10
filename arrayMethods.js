@@ -1,5 +1,12 @@
+console.log("small changes to test the pull request")
+
 console.log("array methods")
+
+
+console.log("testing for push change")
+
 console.log("array change for testing push") // check this in pushing
+
 let arr = [2,8,5,1,6.9,83,44]
 let aee1 = ["teye","hdu","uqi"]
 console.log(arr.concat(arr,aee1)) // concat 2 arrays
