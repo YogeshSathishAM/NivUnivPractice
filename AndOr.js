@@ -1,7 +1,11 @@
 console.log("AndOr")
+
 // testing for push changes
 // check for the pull in vs code after pull command 
 // gti diff
+
+console.log("chnages made for testing push in main branch") // check this in main
+
 let num = 20;
 
 if(num%2===0 && num%4===0)
