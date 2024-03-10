@@ -1,4 +1,7 @@
+console.log("small changes to test the pull request")
+
 console.log("array methods")
+
 console.log("testing for push change")
 let arr = [2,8,5,1,6.9,83,44]
 let aee1 = ["teye","hdu","uqi"]
